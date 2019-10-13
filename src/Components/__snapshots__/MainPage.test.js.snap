@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders MainPage without crash 1`] = `ShallowWrapper {}`;
+
+exports[`should render CounterButton component 1`] = `ShallowWrapper {}`;
